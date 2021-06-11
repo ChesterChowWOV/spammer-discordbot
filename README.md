@@ -1,1 +1,1 @@
-# spammer-discordbot
+# Spammer
